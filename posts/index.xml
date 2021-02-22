@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on REA605BLR</title>
+    <link>https://blr.k4t.io/posts/</link>
+    <description>Recent content in Posts on REA605BLR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>2021 Team BLR. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 22 Feb 2021 13:04:30 -0500</lastBuildDate><atom:link href="https://blr.k4t.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://blr.k4t.io/test/</link>
+      <pubDate>Mon, 22 Feb 2021 13:04:30 -0500</pubDate>
+      
+      <guid>https://blr.k4t.io/test/</guid>
+      <description>Welcome to this site.</description>
+    </item>
+    
+  </channel>
+</rss>
